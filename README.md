@@ -46,4 +46,4 @@ Já no dash “Tipo de rota mais eficaz” notamos que na modalidade “Single P
 
 Obs.: Para o tipo de rota “Single Pick Multi Drop” senti falta do dado da quantidade de entregas feita dentro de cada entrega “multi drop” para dividir o tempo e distância e confirmar efetividade nessa modalidade de entrega.
 
-Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6605712877054562/1351783805753811/6665719610652/latest.html
+[CLIQUE AQUI PARA VER O DASHBOARD](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6605712877054562/1351783805753811/6665719610652/latest.html)
