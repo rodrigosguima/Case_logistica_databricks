@@ -1,5 +1,6 @@
 # Case_logistica_databricks
-Case mostra dados relacionados a logistica de entregas:
+Case mostra dados relacionados a logistica de entregas.
+
 Dashboard feito no Databricks com programação em SQL
 
 
